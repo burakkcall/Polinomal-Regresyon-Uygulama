@@ -2,6 +2,7 @@
 # Polynomial Regression
 
 Meslek Rütbelerinin ve Maaşlarının bulunduğu küçük bir veriseti vardır. Bunun üstel arttığı bilinmektedir. Polinomal regresyon ile gösterimi yapılacaktır.
+
 ![3](https://github.com/burakkcall/Polinomal-Regresyon-Uygulama/assets/81091908/6480492f-616c-4661-8511-9904da856fe8)
 
 
